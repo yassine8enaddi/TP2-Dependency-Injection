@@ -1,10 +1,10 @@
-package com.example.tp2;
+package com.example.tp2.config;
 
 import com.example.tp2.repository.InMemoryStudentRepository;
 import com.example.tp2.repository.StudentRepository;
 import com.example.tp2.service.StudentService;
 import com.example.tp2.service.StudentServiceImpl;
-import com.example.tp2.service.StudentServiceMock;
+//import com.example.tp2.service.StudentServiceMock;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
